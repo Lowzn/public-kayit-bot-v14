@@ -1,0 +1,23 @@
+{
+  "name": "Godzilla",
+  "version": "4.0.0",
+  "description": "V14 Public Kayıt Bot Altyapısı.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Ly3ssia",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^1.0.0",
+    "croxydb": "^0.0.7",
+    "discord.js": "^14.0.1",
+    "fs": "^0.0.1-security",
+    "moment": "^2.29.4",
+    "moment-duration-format": "^2.3.2"
+  },
+  "engines": {
+    "node": "16.x"
+  }
+}
